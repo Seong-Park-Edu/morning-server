@@ -1,6 +1,6 @@
 //Vercel은 이 폴더 안에 있는 파일들을 자동으로 서버 주소로 만들어줍니다.
 //앱 화면에 뿌려줄 글(내용, 순서, 타입)을 가져오는 코드입니다.
-
+//
 // api/manifesto.js
 const { Client } = require("@notionhq/client");
 
